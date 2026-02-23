@@ -1,6 +1,6 @@
 {
-  "name": "@teacinema/core",
-  "version": "1.0.2",
+  "name": "@teacinema-test/core",
+  "version": "1.0.4",
   "description": "Core utilities and shared setup",
   "publishConfig": {
     "access": "public"
