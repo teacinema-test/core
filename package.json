@@ -1,6 +1,6 @@
 {
   "name": "@teacinema-test/core",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Core utilities and shared setup",
   "publishConfig": {
     "access": "public"
@@ -17,6 +17,5 @@
   "exports": {
     ".": "./src/prettier.config.mjs",
     "./prettier": "./src/prettier.config.mjs"
-
   }
 }
